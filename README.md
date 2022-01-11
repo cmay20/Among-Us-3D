@@ -1,44 +1,33 @@
-Name: Colin May
-Andrew Id: cmmay
-Term Project 15-112 Fall 2020
+## 15-112 Term Project: AMONG US 3D
 
-Project: 'AMONG US 3d'
+This project was developed for my 15-112 Term Project. 
 
-
-
-**Project Description:**
-
-My project, Among Us 3d, is a game inspired by the recently popular “Among Us”. 
-My project recreates the primary features of “Among Us” but transforms 
-the 2d user experience into a 3d world with raycasting. Among Us 3d features a
-single player mode, which is unique to my project. Because of this, it includes
-complex game AIs and AI pathfinding algorithms.
+**Among Us 3d** recreates the primary features of “Among Us” but transforms 
+the 2d user experience into a pseudo-3d world with raycasting. Among Us 3d is singleplayer 
+and includes AIs that obey pathfinding algorithms.
 
 
-**How To Run:**
+### Setup
 
-- The user may need to download the simpleaudio module.
-- The user should have 'cmu_112_graphics.py' accessible.
-- To run the project, the user should run "amongUs3d.py' in the editor.
+- Download repository. Open in IDE of choice (I use VSCode for this project).
+- Download [simpleaudio](https://pypi.org/project/simpleaudio/) module with ```pip install simpleaudio```
+
+
+- The user should have 'cmu_112_graphics.py' accessible. This project uses this graphics file built by Carnegie Mellon Staff that extends Tkinter features.  
+- To run the project, run "amongUs3d.py' in the editor. 
 - Further, my project contains many image files and sound wav files. Within
     my folder management, these are stored in folders labeled 'gameImages' and
     'gameSounds'. The user may need to download these image and wav files from
     my google docs submission.
 
+### How To Play
+- Goal: Complete all tasks to repair your ship with fellow crewmate AIs before the imposter elimates each of you. 
+- Can choose to play as Crewmate or Imposter via the pregame menu.
 
-**Modules:**
-
-- I am using the simpleaudio module. This is quick and easy to install with 
-    pip.
-- No other modules/libraries installations are necessary for this project 
-    besides including 'cmu_112_graphics.py' in the project folder.
-
-
-**Shortcut Commands**
-
--'Tab': opens the map
--'v': When the map if open and v is pressed, the game AIs become visible to 
+#### Shortcut Commands
+- 'Tab': opens the map
+- 'v': When the map is open and v is pressed, the game AIs become visible to 
     the user on the map.
--'arrow keys' to move player. 
-- Most of the user interaction is via the mouse clicking on the screen.
+- 'Arrow keys' to move player. 
+- 'Mouse click' for other game interaction.
 
