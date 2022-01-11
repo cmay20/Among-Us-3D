@@ -2,9 +2,7 @@
 
 This project was developed for my 15-112 Term Project. 
 
-**Among Us 3d** recreates the primary features of “Among Us” but transforms 
-the 2d user experience into a pseudo-3d world with raycasting. Among Us 3d is singleplayer 
-and includes AIs that obey pathfinding algorithms.
+**Among Us 3d** reimagines the game [Among Us](https://www.innersloth.com/games/among-us/) through pseudo-3D graphics and a singleplayer mode with AI.  
 
 
 ### Setup
