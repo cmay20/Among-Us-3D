@@ -15,8 +15,7 @@ This project was developed for my 15-112 Term Project.
 - To run the project, run "amongUs3d.py' in the editor. 
 - Further, my project contains many image files and sound wav files. Within
     my folder management, these are stored in folders labeled 'gameImages' and
-    'gameSounds'. The user may need to download these image and wav files from
-    my google docs submission.
+    'gameSounds'. The user may need to download these image and wav files.
 
 ### How To Play
 - Goal: Complete all tasks to repair your ship with fellow crewmate AIs before the imposter elimates each of you. 
