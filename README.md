@@ -2,7 +2,7 @@
 
 This project was developed for my 15-112 Term Project. 
 
-**Among Us 3d** reimagines the game [Among Us](https://www.innersloth.com/games/among-us/) through pseudo-3D graphics and a singleplayer mode with AI.  
+**Among Us 3d** reimagines the game [Among Us](https://www.innersloth.com/games/among-us/) with pseudo-3D graphics and a singleplayer mode with AI.  
 
 
 ### Setup
